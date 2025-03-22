@@ -3,7 +3,7 @@
 
 # Installation
 * Download Autohotkey v2.0 or later from this link https://www.autohotkey.com
-* Download the [newest release](github.com/EvilPancake123/BalatroResetHotkey/releases/latest)
+* Download the [latest release](https://github.com/EvilPancake123/BalatroResetHotkey/releases/latest)
 
 # Customization and settings
 The AHK script has various settings that can be tweaked for the best perfomance, these are:
