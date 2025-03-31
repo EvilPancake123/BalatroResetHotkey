@@ -6,7 +6,7 @@
 * Download the [latest release](https://github.com/EvilPancake123/BalatroResetHotkey/releases/latest)
 
 # Customization and settings
-The AHK script has various settings that can be tweaked for the best perfomance, these are:
+The AHK script has various settings that can be tweaked for the best perfomance. To see these settings right click the hotkey script and select "edit script", using notepad for this will work fine. These settings are:
 * resetHotkey - the hotkey that will be used when resetting. Default value is "u". A list of all keys can be found [here](https://www.autohotkey.com/docs/v2/KeyList.htm)
 * sleepTime - the amount of time to wait in milliseconds before moving the mouse when resetting single deck, increase if restting is inconsistent. Default value is 150.
 * moveInputDelay - the amount of time to wait in milliseconds between moving the mouse and clicking the mouse button, lower values means more inconsistent resets. Default value is 5.
